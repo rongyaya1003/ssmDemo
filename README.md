@@ -1,2 +1,2 @@
 # ssmProject
-spring,springMVC,mybatis
+spring,springMVC,mybatis demo
